@@ -1,5 +1,5 @@
 <a href="https://claimsolana.io">
-  <img src="[https://your-domain.com/path-to-logo.png](https://claimsolana.io/img/solanaclaimlogo.png)" alt="ClaimSolana.io Logo" width="150">
+  <img src="https://claimsolana.io/img/solanaclaimlogo.png" alt="ClaimSolana.io Logo" width="150">
 </a>
 ---
 
