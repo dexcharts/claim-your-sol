@@ -1,29 +1,6 @@
-# ClaimSolana.io - Official Repository
-
-[![ClaimSolana.io Logo](https://claimsolana.io/img/solanaclaimlogo.png)](https://claimsolana.io) 
----
-
-## Table of Contents
-
-- [Reclaim SOL From Rent](#reclaim-sol-from-rent)
-  - [What Are SPL Token Accounts?](#what-are-spl-token-accounts)
-  - [What Is Rent on Solana?](#what-is-rent-on-solana)
-  - [How ClaimSolana.io Helps](#how-claimsolanaio-helps)
-- [Steps To Reclaim Your SOL](#steps-to-reclaim-your-sol)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started (For Developers)](#getting-started-for-developers)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running Locally](#running-locally)
-- [Configuration](#configuration)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [Security](#security)
-- [License](#license)
-- [Contact & Community](#contact--community)
-- [Acknowledgements](#acknowledgements)
-
+<a href="https://claimsolana.io">
+  <img src="[https://your-domain.com/path-to-logo.png](https://claimsolana.io/img/solanaclaimlogo.png)" alt="ClaimSolana.io Logo" width="150">
+</a>
 ---
 
 ## Reclaim SOL From Rent
