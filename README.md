@@ -1,7 +1,7 @@
-<a href="https://claimsolana.io">
+<center><a href="https://claimsolana.io">
   <img src="https://claimsolana.io/img/solanaclaimlogo.png" alt="ClaimSolana.io Logo" width="150">
-</a>
----
+</a></center>
+
 
 ## Reclaim SOL From Rent
 
