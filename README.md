@@ -1,6 +1,6 @@
 # ClaimSolana.io - Official Repository
 
-[![ClaimSolana.io Logo](https://claimsolana.io/img/solanaclaimlogo.png)](https://claimsolana.io) <!-- Optional: Replace with your actual logo URL -->
+[![ClaimSolana.io Logo](https://claimsolana.io/img/solanaclaimlogo.png)](https://claimsolana.io) 
 ---
 
 ## Table of Contents
@@ -62,7 +62,7 @@ ClaimSolana.io scans your wallet for these empty SPL token accounts. It then all
     After successfully connecting your wallet, the platform will display:
     *   The number of empty SPL token accounts that can be closed.
     *   The total amount of SOL that can be reclaimed.
-    To proceed, press the **"CLAIM"** (or similar) button.
+    To proceed, press the **"CLAIM"** button.
 
 4.  **Approve Transactions:**
     Your wallet will prompt you to approve one or more transactions. These transactions are necessary to instruct the Solana network to close the empty accounts. Review the transaction details carefully.
@@ -81,6 +81,5 @@ Beyond reclaiming SOL from rent, ClaimSolana.io aims to provide:
 *   **User-Friendly Interface:** Intuitive design for easy navigation and use.
 *   **Clear Information:** Transparent display of reclaimable accounts and SOL amounts.
 *   **Secure Transactions:** Direct interaction with the Solana blockchain via your wallet for all operations.
-*   **[Potentially other features, e.g., Viewing all token accounts, Managing other claimable assets/airdrops - add if applicable]**
 
 ---
