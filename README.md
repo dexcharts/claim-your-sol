@@ -5,7 +5,7 @@
 
 ## Reclaim SOL From Rent
 
-One of the primary utilities of ClaimSolana.io is to help users recover SOL that is locked up paying rent for empty SPL (Solana Program Library) token accounts.
+Our tool <a href="https://claimsolana.io/">ClaimSolana.io</a> is helps users recover SOL that is locked up paying rent for empty SPL (Solana Program Library) token accounts.
 
 ### What Are SPL Token Accounts?
 
